@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="36" started-at="2022-01-29T13:29:59 IST" finished-at="2022-01-29T13:29:59 IST">
+  <suite name="Suite" duration-ms="32" started-at="2022-01-29T14:48:31 IST" finished-at="2022-01-29T14:48:31 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="36" started-at="2022-01-29T13:29:59 IST" finished-at="2022-01-29T13:29:59 IST">
+    <test name="Test" duration-ms="32" started-at="2022-01-29T14:48:31 IST" finished-at="2022-01-29T14:48:31 IST">
       <class name="com.chethan.test.FirstTest">
-        <test-method status="PASS" signature="t1()[pri:0, instance:com.chethan.test.FirstTest@1e127982]" name="t1" duration-ms="4" started-at="2022-01-29T13:29:59 IST" finished-at="2022-01-29T13:29:59 IST">
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.chethan.test.FirstTest@1e127982]" name="t1" duration-ms="3" started-at="2022-01-29T14:48:31 IST" finished-at="2022-01-29T14:48:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1 -->
-        <test-method status="PASS" signature="t2()[pri:0, instance:com.chethan.test.FirstTest@1e127982]" name="t2" duration-ms="0" started-at="2022-01-29T13:29:59 IST" finished-at="2022-01-29T13:29:59 IST">
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.chethan.test.FirstTest@1e127982]" name="t2" duration-ms="0" started-at="2022-01-29T14:48:31 IST" finished-at="2022-01-29T14:48:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t2 -->

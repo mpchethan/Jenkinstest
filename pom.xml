@@ -15,7 +15,7 @@
 
 				<configuration>
 					<systemPropertyVariables>
-						<propertyName>firefox</propertyName>
+						<propertyName>${suite}</propertyName>
 					</systemPropertyVariables>
 
 					<suiteXmlFiles>
